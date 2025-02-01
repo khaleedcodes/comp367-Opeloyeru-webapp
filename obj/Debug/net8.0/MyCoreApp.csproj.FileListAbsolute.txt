@@ -28,3 +28,4 @@ C:\Users\khale\OneDrive\Desktop\college\winter 25\devops-implementation\MyCoreAp
 C:\Users\khale\OneDrive\Desktop\college\winter 25\devops-implementation\MyCoreApp\obj\Debug\net8.0\MyCoreApp.pdb
 C:\Users\khale\OneDrive\Desktop\college\winter 25\devops-implementation\MyCoreApp\obj\Debug\net8.0\MyCoreApp.genruntimeconfig.cache
 C:\Users\khale\OneDrive\Desktop\college\winter 25\devops-implementation\MyCoreApp\obj\Debug\net8.0\ref\MyCoreApp.dll
+C:\Users\khale\OneDrive\Desktop\college\winter 25\devops-implementation\MyCoreApp\obj\Debug\net8.0\MyCoreApp.sourcelink.json
